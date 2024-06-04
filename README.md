@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @YoungDope420
+- 👋 Hi, I’m @Vini
 - 👀 I’m interested in crypto and coding 
-- 🌱 I’m currently learning linux 
+- 🌱 I’m currently learning Linux and Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-YoungDope420/YoungDope420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This will be 
